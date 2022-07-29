@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/DotVTech/the-stars/master/images/read-me/home-page.png" alt="The Stars" />
+    <img src="https://raw.githubusercontent.com/vdang7/the-stars/master/images/read-me/home-page.png" alt="The Stars" />
 </p>    
 
 <h3 align="center">The Stars</h3>
@@ -34,7 +34,7 @@ Be sure to have [Node.js](https://nodejs.org/) installed before proceeding.
 1. Clone the repo
 
     ```bash
-    git clone https://github.com/DotVTech/the-stars
+    git clone https://github.com/vdang7/the-stars
     cd the-stars
     ```
 
